@@ -1,0 +1,18 @@
+// Alerts
+
+@mixin alert-variant($background, $border, $body-color) {
+  background-color: $background;
+  border-color: $border;
+  color: $body-color;
+
+  hr {
+    border-top-color: darken($border, 5%);
+  }
+  .alert-link {
+  	// ONE UI KIT - EDIT
+    // color: darken($body-color, 10%);
+    color: $body-color;
+    // ONE UI KIT - ADD
+    text-decoration: underline;
+  }
+}
