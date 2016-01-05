@@ -1,6 +1,6 @@
 {
-  "name": "bs4-one-ui-kit",
-  "description": "",
+  "name": "One-ui-kit",
+  "description": "One ui kit for Bootstrap 4",
   "version": "1.0.0",
   "keywords": [
     "bootstrap",
@@ -13,7 +13,7 @@
     "framework",
     "web"
   ],
-  "homepage": "http://ossama.io/one",
+  "homepage": "https://github.com/OssamaZ/One-ui-kit",
   "author": {
     "name": "Ossama Zaid",
     "email": "w4rz4zi@gmail.com"
@@ -21,15 +21,14 @@
   "scripts": {
     "test": ""
   },
-  "style": "dist/css/one-ui-kit.css",
-  "sass": "scss/one-ui-kit.scss",
+  "sass": "scss/bs4-one-ui-kit.scss",
   "main": "./js/npm",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/OssamaZ/One-ui-kit"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/OssamaZ/One-ui-kit/issues"
   },
   "license": "MIT",
   "devDependencies": {
